@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">gameChallenge</string>
+    <string name="can_you_guess_the_number">Can you guess the Number?</string>
+</resources>
